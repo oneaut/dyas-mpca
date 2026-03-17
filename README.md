@@ -2,7 +2,7 @@
 
 This repository contains the simulation code and parameters for:
 
-> **M. Singh and N. Sharma**, "Stability-Guaranteed Dynamic Active Subspace Torque Allocation for Over-Actuated Hybrid Neuroprostheses," *IEEE Control Systems Letters*, 2025.
+> **M. Singh and N. Sharma**, "Stability-Guaranteed Dynamic Active Subspace Torque Allocation for Over-Actuated Hybrid Neuroprostheses," *IEEE Control Systems Letters*, 2026.
 
 ---
 
